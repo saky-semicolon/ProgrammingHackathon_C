@@ -1,3 +1,16 @@
+/*
+### Problem 3
+Widget Company runs a small factory that makes several types of nuts and bolts. They employ factory workers
+who are paid one of the three hourly rates depending on skill level: (a) RM 7.00, (b) RM 10.00, or (c) RM 12.00.
+Each factory worker can work: (a) 40 hours, (b) 45 hours, (c) 50 hours per week. All hours over 40 are paid at
+double time.
+
+Jack Smith, the factory manager, wants you to write an interactive C payroll program that will calculate the
+gross pay for a factory worker. Hours worked and hourly pay rate to be entered from the keyboard. Once the
+figures are entered for an employee, the program prints out: (1) the hours worked, (2) the hourly pay rate, (3)
+the regular pay for 40 hours, and (4) the overtime pay.
+*/
+
 #include <stdio.h>
 
 int main() {

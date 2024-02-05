@@ -1,3 +1,17 @@
+/*
+### Problem 1
+Event Handlers wants to develop an Employer program to set and retrieve employee ID numbers, employee salaries, and first and last employee names. The current list of employees and their data are as follows:
+
+| Employee Name    | Employee ID | Employee Salary |
+|-------------------|-------------|------------------|
+| Kim Yee           | 101         | $40,000.00      |
+| John Reynolds     | 102         | $55,000.00      |
+| Elena Gonzales    | 103         | $50,500.00      |
+| Jim O’Shea        | 104         | $75,000.00      |
+
+As a programmer, your task is to write a C program to accomplish the tasks given by the specifications
+*/
+
 #include <stdio.h>
 
 // Define a structure for Employee

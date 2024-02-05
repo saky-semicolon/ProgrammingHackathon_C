@@ -1,3 +1,23 @@
+/*
+### Problem 4
+Local Caterer’s Company operates a small Mom and Pop catering service. They want you to write a C program
+for them to schedule their catering events. They mostly cater special events, but they occasionally cater
+corporate, private and non-profit events as well. Mom and Pop are both managers; Mom manages nonprofit
+and special events, and Pop manages the corporate and private events. All catered events have an event
+minimum rate shown in the table below:
+
+| Event      | Minimum Rate | Manager |
+|------------|--------------|---------|
+| Corporate  | $500.00      | Pop     |
+| Private    | $300.00      | Pop     |
+| Nonprofit  | $150.00      | Mom     |
+| Special    | $200.00      | Mom     |
+
+Write a program for Local Caterer’s Company that accepts keyboard input and checks the event type input for
+errors until a valid event type is entered. After a valid input type is entered, print the manager’s name for that
+event, the type of event chosen, and the minimum rate to be charged. 
+*/
+
 #include <stdio.h>
 
 int main() {

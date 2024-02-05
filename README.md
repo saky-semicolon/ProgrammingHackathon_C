@@ -60,7 +60,7 @@ The Tax Advantage Company provides free tax services to residents who cannot cal
 You have been asked to write a C program that will calculate an estimated tax for either a single or married
 taxpayer, given a keyboard income entry. After the income is entered, a code status “S” for single or “M” for
 married is entered. A tax function will calculate the tax based on the input values.
-<br>
+
 For taxpayers, two tax rates are needed, 15 percent and 30 percent. For single taxpayers, the cutoff rate of 15
 percent is $10,000.00, and 30 percent above $10,000.00. For married taxpayers, the cutoff rate is 15 percent
 for amounts below $20,000, and 30 percent for amounts of $20,000 and above. Program output should show
